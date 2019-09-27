@@ -28,6 +28,7 @@ gem "jquery-ui-rails"
 gem "capybara"
 gem "webdrivers"
 gem "whenever", require: false
+gem "delayed_job_active_record"
 gem "paranoia"
 gem "webpacker"
 gem "react-rails"
